@@ -1,0 +1,5 @@
+{
+  "name": "DroidDynDNS",
+  "description": "Client DynDNS autonome pour Android (compatible OVH) avec suivi d'IP et logs.",
+  "requestFramePermissions": []
+}
