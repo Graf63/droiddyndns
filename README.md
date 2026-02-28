@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://lh3.googleusercontent.com/sitesv/APaQ0SS7Mff2xGYEDFpVGIyqLGVjVmeTKN5HJwMOgR3ucV-hy1gUJD7KWAHGu7KEO9gMtxltlw0HeTOC6rozkhOqWrtfLbwVZ_rdck9JdPF8pn3VznXA_BO1vFpXIOMNwx4vzy3bwahOhkPiF3xVWyQ6IT6Ykl-efzFcQUqKKPuaH_hSrULAgj5SC8wdUSE=w16383" />
+<img width="1200" height="475" alt="GHBanner" src="https://raw.githubusercontent.com/Graf63/droiddyndns/refs/heads/main/public/banner.jpg" />
 </div>
 
 
